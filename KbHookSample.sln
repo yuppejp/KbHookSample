@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KbHookSample", "KbHookSample\KbHookSample.csproj", "{938FBC05-0964-4634-95E1-14627F45F89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938FBC05-0964-4634-95E1-14627F45F89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938FBC05-0964-4634-95E1-14627F45F89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938FBC05-0964-4634-95E1-14627F45F89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938FBC05-0964-4634-95E1-14627F45F89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D07EF0-1E21-43BA-8B6D-98753AC7E273}
+	EndGlobalSection
+EndGlobal
